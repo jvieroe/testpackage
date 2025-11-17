@@ -12,7 +12,7 @@ The goal of testpackage is to …
 
 ## Installation
 
-You can install the development version of testpackage like so:
+You can install…:
 
 ``` r
 # FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
